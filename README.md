@@ -46,7 +46,7 @@ Proyek ini berawal dari mini project kuliah dalam dua tahap: sistem inventori be
 1. Clone repository dan masuk ke foldernya:
 
 ```bash
-git clone https://github.com/USERNAME/inventory-laravel.git
+git clone https://github.com/luthfiihakim/inventory-laravel.git
 cd inventory-laravel
 ```
 
@@ -236,6 +236,4 @@ php artisan optimize:clear        # bersihkan cache
 
 ## Penulis
 
-(isi nama) - [GitHub](https://github.com/USERNAME)
-#   M i n i - P r o j e c t - 3 - I n v e n t o r y - S y s t e m  
- 
+Muhammad Luthfi Hakim Lubis - [GitHub] (https://github.com/luthfiihakim)
